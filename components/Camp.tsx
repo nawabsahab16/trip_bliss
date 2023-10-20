@@ -29,7 +29,7 @@ const CampSite = ({ backgroundImage, title , subtitle, peopleJoined}
              <h4 className="bold-18 text-white">{ title}</h4>
              <p className="regular-14 text-white"> {subtitle}</p>
            </div>
-        </div>
+        </div>  
         
         <div className="flexCenter gap-6">
           <span className="flex -space-x-4 overflow-hidden">
