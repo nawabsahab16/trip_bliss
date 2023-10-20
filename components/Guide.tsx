@@ -45,7 +45,9 @@ const Guide = () => {
                  />
                 
 
-                
+
+
+                <div className="flexBetween flex-col"> 
                 <div className="flex w-full flex-col">
                   <div className="flexBetween w-full">
                       <p className="regular-16 text-grey-20"> Destination</p>
@@ -59,11 +61,12 @@ const Guide = () => {
                   <h4 className="bold-20 mt-2 whitespace-nowrap"> Wonorejo Pasuruan </h4>  
                 
                 </div>
-                              
-
             </div>
+
          </div>
        </div>
+
+       
    </section>
 
 
